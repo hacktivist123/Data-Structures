@@ -1,12 +1,12 @@
 # Data-Structures
 An Implementation of Popular Data Structures in Javascript
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] Stacks
+- [x] Queue
+- [ ] Sets and Maps
+- [ ] Trees
+- [ ] Graphs
+- [ ] Sorting
+- [ ] Big O Notation
+- [ ] Space and Time Complexity
+- [ ] Micro-Optimizations and Memory management
 
