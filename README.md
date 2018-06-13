@@ -1,11 +1,13 @@
 # Data-Structures
 An Implementation of Popular Data Structures in Javascript
-1.Stacks
-2.Queue
-3.Sets and Maps
-4.Trees
-5.Graphs
-6.Sorting
-7.Big O Notation
-8.Space and Time Complexity
-9.Micro-Optimizations and Memory management
+<ul>
+  <li>1.Stacks</li>
+  <li>2.Queue</li>
+  <li>3.Sets and Maps</li>
+  <li>4.Trees</li>
+  <li>5.Graphs</li>
+  <li>6.Sorting</li>
+  <li>7.Big O Notation</li>
+  <li>8.Space and Time Complexity</li>
+  <li>9.Micro-Optimizations and Memory management</li>
+</ul>
