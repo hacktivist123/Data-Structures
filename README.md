@@ -1,7 +1,6 @@
 # Data-Structures
 An Implementation of Popular Data Structures in Javascript
-<ul>
- -[ ] Mercury
+- [ ] Mercury
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
@@ -10,4 +9,4 @@ An Implementation of Popular Data Structures in Javascript
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
-</ul>
+
