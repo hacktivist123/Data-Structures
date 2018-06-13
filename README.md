@@ -1,8 +1,8 @@
 # Data-Structures
 An Implementation of Popular Data Structures in Javascript
 <ul>
-  <li>1.Stacks</li>
-  <li>2.Queue</li>
+  <li>1.Stacks</li> - [X]
+  <li>2.Queue</li>  - [X]
   <li>3.Sets and Maps</li>
   <li>4.Trees</li>
   <li>5.Graphs</li>
